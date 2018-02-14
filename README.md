@@ -1,10 +1,8 @@
 # SlackDeleteFiles
 
-Objective: Delete your slack files that are in the last X sent in the chosen channel.
+Objective: Delete your slack files from the chosen channel.
 
-Use:  
-	
-	Get a [Legacy Tokens](https://api.slack.com/custom-integrations/legacy-tokens)
+Get a [Legacy Token](https://api.slack.com/custom-integrations/legacy-tokens)
 	
 	1. Get the token;
 	2. Copy the token to slackDeleteMessages.py:7;
